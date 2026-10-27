@@ -1,0 +1,1 @@
+a plausible adjacent situation exists where following this rule causes real harm: the wrong file gets changed, a destructive or blocking action is taken, or an existing rule is contradicted

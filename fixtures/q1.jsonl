@@ -1,0 +1,4 @@
+{"type":"assistant","isSidechain":false,"timestamp":"2026-10-13T11:00:01.000Z","sessionId":"fix-q1","uuid":"q1a","message":{"id":"msg_q1","role":"assistant","content":[{"type":"text","text":"Чтобы не сломать testing, уточню перед изменением.\nНа каком окружении выполнять миграцию?"}]}}
+{"type":"user","isSidechain":false,"timestamp":"2026-10-13T11:00:02.000Z","sessionId":"fix-q1","uuid":"q1b","message":{"role":"user","content":"только dev, staging не трогаем"}}
+{"type":"assistant","isSidechain":false,"timestamp":"2026-10-13T11:00:03.000Z","sessionId":"fix-q1","uuid":"q1c","message":{"id":"msg_q1b","role":"assistant","content":[{"type":"text","text":"Понял, применяю на dev."}]}}
+{"type":"user","isMeta":true,"isSidechain":false,"timestamp":"2026-10-13T11:00:04.000Z","sessionId":"fix-q1","uuid":"q1d","message":{"role":"user","content":"meta noise that must be skipped"}}

@@ -1,0 +1,1 @@
+following the rule, the first attempt completes the logged task correctly, unattended

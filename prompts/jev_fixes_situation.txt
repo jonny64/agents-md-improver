@@ -1,0 +1,1 @@
+Would following this rule have completed the logged task correctly on the first attempt, unattended? Answer yes only if it prevents the evidenced correction, repeated question, or failure without requiring information absent from the log.

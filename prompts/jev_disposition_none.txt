@@ -1,0 +1,1 @@
+insufficient evidence, conversational, transient, or already covered and adequately worded; the tool's own error message already dictated the fix and the retry succeeded — transient tool mechanics, no rule material

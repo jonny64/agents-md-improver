@@ -1,0 +1,1 @@
+no harmful misfire found — the rule is safe to apply even where it is redundant or broader than the evidence (an extra refresh, an unneeded alias)

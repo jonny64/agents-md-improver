@@ -1,0 +1,1 @@
+Would following this exact rule wording cause real harm on a plausible adjacent situation that the evidence does not cover? Build one concrete adjacent case — a different tool, file, or task the rule's wording would also reach — and test the rule against it. Answer "yes" only if following the rule there causes real harm; waste or redundancy alone is not harm.

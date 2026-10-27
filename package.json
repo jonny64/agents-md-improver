@@ -1,0 +1,17 @@
+{
+  "name": "agents-md-improver",
+  "private": true,
+  "description": "Scan Claude Code session logs for situations that need a CLAUDE.md rule (OpenRouter jev + glm-5.3-flash)",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "scan":     "NODE_USE_ENV_PROXY=1 node scan.js",
+    "decide":   "NODE_USE_ENV_PROXY=1 node decide.js",
+    "draft":    "NODE_USE_ENV_PROXY=1 node draft.js",
+    "validate": "NODE_USE_ENV_PROXY=1 node validate.js",
+    "report":   "NODE_USE_ENV_PROXY=1 node report.js",
+    "start":    "NODE_USE_ENV_PROXY=1 node scan.js && NODE_USE_ENV_PROXY=1 node decide.js && NODE_USE_ENV_PROXY=1 node draft.js && NODE_USE_ENV_PROXY=1 node validate.js && NODE_USE_ENV_PROXY=1 node report.js",
+    "test":     "node --test --test-concurrency=1 --experimental-test-coverage tests/*.test.js"
+  }
+}
